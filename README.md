@@ -22,6 +22,8 @@ This is a **Tic Tac Toe** game built with **React + TypeScript** using **Vite**,
 - CSS (Soft theme)
 
 ## 🧁 Screenshots
+![image](https://github.com/user-attachments/assets/2d45d500-5b44-47e1-9063-3cc168757d4a)
+
 ![image](https://github.com/user-attachments/assets/84c81740-9963-48c0-be98-20b11d5a5bee)
 
 
