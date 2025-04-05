@@ -11,9 +11,21 @@ This is a **Tic Tac Toe** game built with **React + TypeScript** using **Vite**,
 > Upcoming features:
 > - 🤖 Player vs Computer (Bot)
 > - 🎉 Win animations
-> - 🌍 Live deployment
 
-## 🚀 How to Run
+## 🚀 Live Link
+
+🔗 [Play the Game](https://tic-tac-toe-game-liard.vercel.app/)
+
+## 🛠 Tech Stack
+- React + TypeScript
+- Vite
+- CSS (Soft theme)
+
+## 🧁 Screenshots
+![image](https://github.com/user-attachments/assets/84c81740-9963-48c0-be98-20b11d5a5bee)
+
+
+## 🧠 How to Run Locally
 
 ```bash
 npm install
